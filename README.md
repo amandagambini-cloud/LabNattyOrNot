@@ -11,6 +11,7 @@ A marca criada para este exercício se chama **Coffee Before Everything**, uma m
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT** – criação do conceito da marca, posicionamento e prompts
+<img src="images/processo-GPT.png" width="600">
 - **Gemini** – geração inicial de imagens a partir de texto descritivo
 - **Bing AI (Image Creator)** – geração de imagens e packshot do produto
 - **Canva AI** – ajustes visuais, composição do carrossel e aplicação de textos
