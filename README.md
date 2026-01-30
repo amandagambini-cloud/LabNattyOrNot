@@ -1,51 +1,51 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de Carrossel para Instagram de Marca Fictícia de Café ☕✨
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia deste projeto foi criar uma **marca fictícia de café**, definindo seu público-alvo e posicionamento, e a partir disso desenvolver um **post para redes sociais**.
+
+O formato escolhido foi o **carrossel do Instagram**, por permitir trabalhar múltiplas imagens dentro de um mesmo conceito. Isso possibilitou observar como as IAs generativas lidam com **continuidade visual, narrativa e coerência estética** ao longo de mais de uma imagem, além de comparar os resultados entre diferentes ferramentas.
+
+A marca criada para este exercício se chama **Coffee Before Everything**, uma marca urbana, jovem e contemporânea, voltada para pessoas entre 30 e 40 anos que vivem em apartamentos em grandes cidades, como São Paulo, e valorizam o ritual do café como parte essencial do dia a dia.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT** – criação do conceito da marca, posicionamento e prompts
+- **Gemini** – geração inicial de imagens a partir de texto descritivo
+- **Bing AI (Image Creator)** – geração de imagens e packshot do produto
+- **Canva AI** – ajustes visuais, composição do carrossel e aplicação de textos
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo começou com o **ChatGPT**, utilizado para estruturar o conceito da marca, seu tom de voz e identidade geral. A proposta era criar algo **jovem, moderno, urbano e realista**, alinhado a um público adulto e consumidor de cafés premium.  
+Nesse momento, também solicitei sugestões de nome e prompts para a criação das imagens em outras IAs.
+
+Com o conceito definido, iniciei os testes de geração de imagem:
+
+- **ChatGPT (imagens)**: gerou um carrossel visualmente interessante, porém com imagens muito genéricas e pouco alinhadas a uma identidade de marca clara.
+- **Gemini**: a partir de um texto explicativo escrito por mim, solicitei a criação de um carrossel. A ferramenta gerou apenas uma imagem e apresentou inconsistências visuais, como uma pessoa segurando duas xícaras de café ao mesmo tempo.
+- **Bing AI**: foi a ferramenta que apresentou os melhores resultados. Quando solicitada a criação de várias imagens, conseguiu gerar uma narrativa visual, porém com repetição de imagens, falta de realismo em alguns detalhes e erros frequentes de digitação nos textos.
+
+Em um segundo momento, pedi ao Bing AI apenas a criação de um **packshot** do produto. Esse foi o resultado mais próximo do esperado em termos visuais, mas ainda apresentou erros tipográficos que não puderam ser corrigidos, mesmo após diversas variações de prompt.
+
+Tentei então utilizar a **IA do Canva** para corrigir apenas os textos das imagens. No entanto, os resultados foram inconsistentes: em alguns casos a ferramenta não entendeu o pedido e, em outros, alterou elementos visuais que não deveriam ser modificados.
+
+Como solução final, optei por gerar **imagem por imagem** utilizando prompts mais específicos criados no ChatGPT e aplicados no Bing AI. Em seguida, montei manualmente o carrossel no Canva, inserindo os textos individualmente para garantir maior controle estético e coerência visual.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final é um **carrossel de Instagram** com uma narrativa visual consistente, estética urbana e alinhada ao posicionamento da marca fictícia **Café Antes de Tudo**.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O processo demonstrou como as IAs generativas podem acelerar a criação de conceitos e imagens, mas ainda exigem **curadoria humana**, ajustes manuais e refinamento visual para alcançar um resultado mais realista e próximo do desejado.
 
-### Exemplos e Insigths
+---
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão
+Durante o desenvolvimento do projeto, ficou claro que as IAs ainda apresentam limitações na criação de imagens totalmente realistas, especialmente quando envolvem texto, continuidade visual e pequenos detalhes.
 
-## Links Interessantes
+Foi necessário reescrever prompts diversas vezes e intervir manualmente em algumas etapas para alcançar um resultado satisfatório.  
+Apesar disso, o uso das IAs foi extremamente positivo como ferramenta de apoio criativo, explorando possibilidades rápidas e ajudando a estruturar ideias de forma mais ágil.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O resultado final é bom, embora ainda não ideal, reforçando a importância do olhar humano no processo criativo.
